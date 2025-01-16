@@ -21,6 +21,7 @@ Proyek ini dibuat untuk memenuhi tugas akhir mata kuliah Proyek Pengembangan Gam
 - Penambahan mekanisme nembak dan musuh
 - Adanya collectible untuk membuka secret
 - Local save data
+- Penambahan loading scene
 - Penambahan BGM dan Sfx
 - Penambahan button untuk mute dan unmute sound
 - Penambahan slider pada pause screen untuk mengatur volume BGM
