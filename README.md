@@ -31,3 +31,8 @@ Proyek ini dibuat untuk memenuhi tugas akhir mata kuliah Proyek Pengembangan Gam
 
 ## Deployment:
 https://vincentsuwardy.github.io/Gravity-v2.0/
+
+---
+
+## Github:
+https://github.com/VincentSuwardy/Gravity-v2.0
