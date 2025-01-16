@@ -25,3 +25,8 @@ Proyek ini dibuat untuk memenuhi tugas akhir mata kuliah Proyek Pengembangan Gam
 - Penambahan button untuk mute dan unmute sound
 - Penambahan slider pada pause screen untuk mengatur volume BGM
 - Penambahan story (prolog) di awal game
+
+---
+
+## Deployment:
+https://vincentsuwardy.github.io/Gravity-v2.0/
