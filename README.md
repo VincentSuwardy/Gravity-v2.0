@@ -6,10 +6,10 @@ Proyek ini dibuat untuk memenuhi tugas akhir mata kuliah Proyek Pengembangan Gam
 
 ## Cara Bermain:
 - Untuk bermain level utama, pastikan tutorial sudah selesai dijalankan
-- 'Esc' digunakan untuk skip story prolog
-- Pergerakan menggunakan 'WASD', mengikuti arah gravitasi
-- Gravitasi diatur menggunakan 'arrow keys'
-- Setelah mendapatkan kacang, player bisa menembak dengan menekan 'left shift'
+- `Esc` digunakan untuk skip story prolog
+- Pergerakan menggunakan `WASD`, mengikuti arah gravitasi
+- Gravitasi diatur menggunakan `arrow keys`
+- Setelah mendapatkan kacang, player bisa menembak dengan menekan `left shift`
 - Player dapat mengumpulkan collectible untuk membuka secret
 - Untuk membuka portal, player harus mendorong batu ke arah tombol
 - Setelah portal terbuka, player bisa masuk dan memenangkan gamenya
